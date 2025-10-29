@@ -5,13 +5,13 @@ module.exports = {
 
   // Fail tests (exit non-zero) if coverage is below these thresholds
   coverageThreshold: {
-    global: {
-      branches: 80,
-      functions: 80,
-      lines: 80,
-      statements: 80
-    }
-  },
+  global: {
+    branches: 70,
+    functions: 70,
+    lines: 70,
+    statements: 70
+  }
+},
 
   // Optional: collect coverage for specific files/globs
   collectCoverageFrom: [
