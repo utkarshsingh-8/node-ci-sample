@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/utkarshsingh-8/node-ci-sample/branch/main/graph/badge.svg)](https://codecov.io/gh/utkarshsingh-8/node-ci-sample)
+
 # node-ci-sample
 
 Minimal Node.js (Express) app to demonstrate GitHub Actions CI pipeline.
