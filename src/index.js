@@ -6,6 +6,7 @@ app.get('/health', (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
+/* istanbul ignore next */
 if (require.main === module) {
   app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}`);
